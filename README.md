@@ -1,6 +1,6 @@
 # Shell-scripts
 
-📝 Purpose
+# 📝 Purpose
 
 Provide practical tools for learning Linux and networking
 
@@ -10,11 +10,11 @@ Demonstrate solutions to class assignments in a safe, educational environment
 
 Serve as examples for learning scripting, Linux commands, and basic automation
 
-📂 Script Categories
+# 📂 Script Categories
 Some scripts are purely demonstration scripts using echo to print answers.
 Other scripts require superuser permissions to execute certain operations.
 
-⚙️ Requirements
+# ⚙️ Requirements
 
 Linux environment (Ubuntu recommended)
 
@@ -24,7 +24,7 @@ Superuser (sudo) permissions for some scripts
 
 Network connectivity for scripts that download files or install packages
 
-⚠️ Safety & Best Practices
+# ⚠️ Safety & Best Practices
 
 Read the script before running it, especially scripts that modify files in /etc or install packages.
 
@@ -34,7 +34,7 @@ Only run scripts on virtual machines, test environments, or systems you control.
 
 Backup configuration files before executing scripts that modify system settings.
 
-🚀 How to Run
+# 🚀 How to Run
 
 Open a terminal in the directory containing the scripts:
 
@@ -55,7 +55,7 @@ For scripts that require superuser permissions:
 
 sudo ./script_name.sh
 
-🎯 Learning Goals
+# 🎯 Learning Goals
 
 Understand basic Linux commands and file system structure
 
@@ -65,15 +65,6 @@ Learn shell scripting techniques like loops, conditionals, and functions
 
 Automate common tasks for assignments or practical labs
 
-📈 Future Improvements
-
-Add menu-driven scripts combining multiple tools
-
-Include interactive prompts for user input
-
-Add report generation (logs or CSV)
-
-Upgrade scripts to handle errors more gracefully
 
 👤 Author
 
