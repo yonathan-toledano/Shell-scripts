@@ -1,4 +1,4 @@
-##**Shell-scripts**##
+**Shell-scripts**
 
 This repository contains a collection of Linux shell scripts created to assist with the Network Research module at the JBT Institute.
 
