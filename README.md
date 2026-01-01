@@ -11,15 +11,6 @@ Demonstrate solutions to class assignments in a safe, educational environment
 Serve as examples for learning scripting, Linux commands, and basic automation
 
 📂 Script Categories
-Script	Description
-Basic_tools.sh	Basic Linux utilities and commands for learning purposes.
-Intro_Linux.sh	Introduces fundamental Linux commands and file system navigation.
-Net_tools.sh	Networking tools such as ping, traceroute, and basic network checks.
-OSI_model.sh	Demonstrates the OSI model layers using simple echo outputs.
-Services.sh	Checks, starts, or stops common Linux services (may require sudo).
-Text_Manipulation.sh	Tools for string and file manipulation (grep, sed, awk).
-yoni-final.sh	Final combined script integrating multiple functions for assignments.
-
 Some scripts are purely demonstration scripts using echo to print answers.
 Other scripts require superuser permissions to execute certain operations.
 
