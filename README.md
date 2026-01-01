@@ -1,9 +1,5 @@
 # Shell-scripts
 
-This repository contains a collection of Linux shell scripts created to assist with the Network Research module at the JBT Institute.
-
-Most of these scripts were written using nano on Ubuntu 18.04.6 and are designed to help classmates practice and automate network and system tasks.
-
 📝 Purpose
 
 Provide practical tools for learning Linux and networking
