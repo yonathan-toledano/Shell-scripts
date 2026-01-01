@@ -1,3 +1,13 @@
+## ⚖️ Legal Notice / Disclaimer
+
+**⚠️ IMPORTANT: THESE SCRIPTS ARE PROVIDED FOR EDUCATIONAL PURPOSES ONLY.**
+
+**Do NOT use these scripts on systems you do not own or do not have explicit permission to access.**
+
+**Unauthorized use of these scripts on third-party machines may violate local laws and IT policies.**
+
+**By using these scripts, you agree to take full responsibility for any actions and consequences.**
+
 Shell-scripts
 
 This repository contains a collection of Linux shell scripts created to assist with the Network Research module at the JBT Institute.
