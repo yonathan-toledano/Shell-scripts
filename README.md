@@ -66,7 +66,7 @@ Learn shell scripting techniques like loops, conditionals, and functions
 Automate common tasks for assignments or practical labs
 
 
-👤 Author
+# 👤 Author
 
 Yonathan Toledano
 GitHub: https://github.com/yonathan-toledano
